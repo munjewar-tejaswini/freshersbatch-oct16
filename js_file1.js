@@ -3,6 +3,7 @@
 <body>
 
 <h2>JavaScript Functions</h2>
+<h2>JavaScript Functions</h2>
 
 <p>This example calls a function which performs a calculation, and returns the result:</p>
 
